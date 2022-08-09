@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:8:5-29:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\334f56d72979bfae4c24320a31501608\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\334f56d72979bfae4c24320a31501608\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\abb540b62734585ba75cb300bedb0d92\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\abb540b62734585ba75cb300bedb0d92\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\334f56d72979bfae4c24320a31501608\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\79688b438817207a924670bd403b2497\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\6c12705abbbeccbf98f34dda2ab9e26b\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\2dbf35d67178cc1db631febc899e7062\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\87ef3cb7a9e03ea54922456ab78524c8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\e3d68dce99687bcffe7236fabc470b6b\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\372c8df372e28da612475bc75d10b54a\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\334f56d72979bfae4c24320a31501608\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\6affc3a7b59f13657590e842341a8ee2\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\074c81abbff998937b213e7fba42e951\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\464b9b50083827a5175e43460905969b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\bb1578aba8d9102919f32412a2ec9b26\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\ae81388f556f6fcba563716d7b057092\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\510d0ee759da89240a1f1db313180ed7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\abb540b62734585ba75cb300bedb0d92\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\e584373afb6dc073efa777c4420257bf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\bf49ba5ee75793b8770ed6318c489b41\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\79688b438817207a924670bd403b2497\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\79688b438817207a924670bd403b2497\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\6c12705abbbeccbf98f34dda2ab9e26b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\6c12705abbbeccbf98f34dda2ab9e26b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\2dbf35d67178cc1db631febc899e7062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\2dbf35d67178cc1db631febc899e7062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\87ef3cb7a9e03ea54922456ab78524c8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\87ef3cb7a9e03ea54922456ab78524c8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\e3d68dce99687bcffe7236fabc470b6b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\e3d68dce99687bcffe7236fabc470b6b\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\372c8df372e28da612475bc75d10b54a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\372c8df372e28da612475bc75d10b54a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\334f56d72979bfae4c24320a31501608\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\334f56d72979bfae4c24320a31501608\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\6affc3a7b59f13657590e842341a8ee2\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\6affc3a7b59f13657590e842341a8ee2\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\074c81abbff998937b213e7fba42e951\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\074c81abbff998937b213e7fba42e951\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\464b9b50083827a5175e43460905969b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\464b9b50083827a5175e43460905969b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\bb1578aba8d9102919f32412a2ec9b26\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\bb1578aba8d9102919f32412a2ec9b26\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\ae81388f556f6fcba563716d7b057092\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\ae81388f556f6fcba563716d7b057092\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\510d0ee759da89240a1f1db313180ed7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\510d0ee759da89240a1f1db313180ed7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\abb540b62734585ba75cb300bedb0d92\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\abb540b62734585ba75cb300bedb0d92\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\e584373afb6dc073efa777c4420257bf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\e584373afb6dc073efa777c4420257bf\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\bf49ba5ee75793b8770ed6318c489b41\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\bf49ba5ee75793b8770ed6318c489b41\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\andy\Food-Delivery-App-UI-master\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\saim_\.gradle\caches\transforms-2\files-2.1\7d0238486d800ab7282a2a05ea7dd2f4\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
